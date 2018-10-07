@@ -1,0 +1,26 @@
+#navbar {
+  position: fixed;
+  list-style-position: inside;
+  top: 0px;
+  left: 10px;
+  list-style-type: none;
+
+}
+#navbar ul li {
+  list-style-type: none;
+  padding: 0px;
+  margin:5px;
+  display: inline;
+}
+}
+.h1 {
+  font-style: helvetica, ariel;
+  font-size: 64px;
+  font-weight: 700;
+  position: relative;
+  left: 40%;
+}
+
+Body {
+  background: linear-gradient(35deg, #CCFFFF, #FFCCCC)
+}

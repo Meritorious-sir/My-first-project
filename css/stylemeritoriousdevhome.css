@@ -1,0 +1,40 @@
+#navbar {
+  position: fixed;
+  list-style-position: inside;
+  top: 0px;
+  left: 10px;
+  list-style-type: none;
+
+}
+#navbar ul li {
+  list-style-type: none;
+  padding: 0px;
+  margin: 5px;
+  display: inline;
+
+}
+#Branding {
+  font-color: #CCFFFF;
+  font-size: 45px;
+  left: 100px;
+}
+body{
+  font: 14px/1.5 ariel, helvetica;
+  font-color: rgb(0, 0, 0,);
+  padding: 0;
+  margin: 0;
+  background-color: #FFCCCC;
+  background: linear-gradient(35deg, #CCFFFF, #FFCCCC)
+}
+/*the z-index sets the layers*/
+.container{
+  background-color: #FFCCCC;
+
+}
+
+#Branding{
+  background-color: #FFCCCC;
+}
+._button: hover {
+  color: #FFCCCC;
+}
